@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Ashwin Akash M          </h3>
-<h3>Register Number: 212223230024          </h3>
+<h3>Name: MURALI KRISHNA S     </h3>
+<h3>Register Number: 212223230129          </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
